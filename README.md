@@ -1,6 +1,11 @@
-## Hi there 👋
+## **Seja bem vindo** ✈️
 
-<!--
+### Sou aluna da _Alura_ e aqui você verá meus projetos
+
+### Meu e-mail 📧
+00001105923885sp@al.educacao.sp.gov.br
+![](https://media1.tenor.com/m/GOabrbLMl4AAAAAd/plink-cat-plink.gif)
+
 **Mariana4625/Mariana4625** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
